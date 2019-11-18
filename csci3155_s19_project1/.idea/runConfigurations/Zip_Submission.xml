@@ -1,0 +1,8 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Zip Submission" type="SbtRunConfiguration" factoryName="sbt Task">
+    <setting name="tasks" value="checkAndZipSubmission" />
+    <setting name="vmparams" value="-Xms512M -Xmx1024M -Xss1M -XX:+CMSClassUnloadingEnabled" />
+    <setting name="workingDir" value="$PROJECT_DIR$" />
+    <method />
+  </configuration>
+</component>

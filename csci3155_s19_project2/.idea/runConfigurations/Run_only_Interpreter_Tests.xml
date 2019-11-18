@@ -1,0 +1,17 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Run only Interpreter Tests" type="ScalaTestRunConfiguration" factoryName="ScalaTest">
+    <module name="csci3155_s19_project2" />
+    <setting name="path" value="edu.colorado.csci3155.project2.InterpreterTests" />
+    <setting name="vmparams" value="" />
+    <setting name="params" value="" />
+    <setting name="workingDirectory" value="file://$PROJECT_DIR$" />
+    <setting name="searchForTest" value="Across module dependencies" />
+    <setting name="showProgressMessages" value="true" />
+    <setting name="useSbt" value="false" />
+    <setting name="useUiWithSbt" value="false" />
+    <envs />
+    <setting name="testKind" value="Class" />
+    <setting name="path" value="edu.colorado.csci3155.project2.InterpreterTests" />
+    <method />
+  </configuration>
+</component>

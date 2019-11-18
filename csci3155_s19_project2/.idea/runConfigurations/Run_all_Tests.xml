@@ -1,0 +1,23 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Run all Tests" type="ScalaTestRunConfiguration" factoryName="ScalaTest">
+    <module name="csci3155_s19_project2" />
+    <setting name="path" value="" />
+    <setting name="vmparams" value="" />
+    <setting name="params" value="" />
+    <setting name="workingDirectory" value="file://$PROJECT_DIR$" />
+    <setting name="searchForTest" value="Across module dependencies" />
+    <setting name="showProgressMessages" value="true" />
+    <setting name="useSbt" value="false" />
+    <setting name="useUiWithSbt" value="true" />
+    <envs />
+    <setting name="testKind" value="All in package" />
+    <setting name="package" value="" />
+    <buffered bufClass="edu.colorado.csci3155.project2.CanvasTests" />
+    <buffered bufClass="edu.colorado.csci3155.project2.CanvasTests" />
+    <buffered bufClass="edu.colorado.csci3155.project2.InterpreterTests" />
+    <buffered bufClass="edu.colorado.csci3155.project2.InterpreterTests" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
