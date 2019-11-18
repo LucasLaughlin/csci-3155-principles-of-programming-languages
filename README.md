@@ -1,4 +1,4 @@
-# csci-3155-principles-of-programming-languages
+# CSCI-3155-Principles-of-Programming-Languages
 Classwork from CSCI 3155: Principles of Programming Languages at University of Colorado, Boulder
 
 Spring 2019
